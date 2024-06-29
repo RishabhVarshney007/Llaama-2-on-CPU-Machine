@@ -12,5 +12,6 @@
     "editor.experimentalInlineEdit.enabled": true,
     "editor.inlineCompletionsAccessibilityVerbose": true,
     "emmet.useInlineCompletions": true,
-    "notebook.experimental.generate": true
+    "notebook.experimental.generate": true,
+    "editor.quickSuggestionsDelay": 20
 }
