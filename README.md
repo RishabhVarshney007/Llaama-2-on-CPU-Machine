@@ -38,4 +38,10 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
 
+# My Project
+
+Here is an image from my project:
+
+![My Image](image/chatbot_URL.jpg)
+
 
